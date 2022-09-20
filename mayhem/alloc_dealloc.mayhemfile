@@ -1,0 +1,7 @@
+project: guillotiere
+target: alloc-dealloc
+
+cmds:
+  - cmd: /alloc_dealloc
+  - cmd: /alloc_dealloc_no_inst @@
+    libfuzzer: false
