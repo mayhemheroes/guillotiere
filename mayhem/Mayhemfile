@@ -1,0 +1,5 @@
+project: guillotiere
+target: alloc-dealloc
+
+cmds:
+  - cmd: /mayhem/alloc_dealloc
